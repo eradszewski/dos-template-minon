@@ -1,0 +1,6 @@
+client:
+  enabled: true
+  dos:
+    url: "https://google.de"
+    method: "GET"
+    requestCount: 20
